@@ -1,0 +1,12 @@
+CSS: Cascading Style Sheets.
+
+The most common way to add CSS, is to keep the styles in external CSS files.
+
+"padding" is for space inside the border.
+"margin" is for space outside the border.
+
+Learn more CSS at:
+https://www.w3schools.com/css/default.asp
+
+voy por:
+https://www.w3schools.com/html/html_links.asp

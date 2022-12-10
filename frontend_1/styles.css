@@ -1,0 +1,12 @@
+body {
+    background-color: #00ffff;
+    color: red;
+    text-align: center;
+    font-size: 300%;
+}
+button {
+    background-color: yellow;
+    border: 30px solid green;
+    color: black;
+    font-size: 100%;
+}
